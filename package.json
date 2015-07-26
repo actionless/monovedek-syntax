@@ -1,9 +1,9 @@
 {
-  "name": "solarized-dark-syntax",
+  "name": "monovedek-syntax",
   "theme": "syntax",
   "version": "0.38.1",
-  "description": "A dark syntax theme using the solarized colors",
-  "repository": "https://github.com/atom/solarized-dark-syntax",
+  "description": "A dark syntax theme using the Monovedek colors",
+  "repository": "https://github.com/atom/monovedek-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
