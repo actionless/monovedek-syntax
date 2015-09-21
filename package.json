@@ -1,7 +1,7 @@
 {
   "name": "monovedek-syntax",
   "theme": "syntax",
-  "version": "0.0.2",
+  "version": "0.0.0",
   "description": "A dark syntax theme using the Monovedek colors",
   "repository": "https://github.com/actionless/monovedek-syntax",
   "license": "MIT",
